@@ -1,0 +1,20 @@
+{
+  "name": "http-proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tigeryu8900/http-proxy-server.git"
+  },
+  "engines": {
+    "node": ">=21.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
